@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    {
+      "source": "/react-17-suspence",
+      "destination": "/blog/working-with-new-suspense-system-in-react-17"
+    },
+    {
+      "source": "/gh",
+      "destination": "https://github.com/p3yman"
+    }
+  ]
+}
